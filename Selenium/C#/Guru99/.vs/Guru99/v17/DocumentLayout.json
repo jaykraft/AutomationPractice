@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D59809-BDEF-4A43-AF5E-DDF1B3BCABDE}|Guru99\\Guru99.csproj|c:\\users\\jason\\documents\\automationpractice\\selenium\\c#\\guru99\\guru99\\guru99demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D59809-BDEF-4A43-AF5E-DDF1B3BCABDE}|Guru99\\Guru99.csproj|solutionrelative:guru99\\guru99demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D59809-BDEF-4A43-AF5E-DDF1B3BCABDE}|Guru99\\Guru99.csproj|c:\\users\\jason\\documents\\automationpractice\\selenium\\c#\\guru99\\guru99\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D59809-BDEF-4A43-AF5E-DDF1B3BCABDE}|Guru99\\Guru99.csproj|solutionrelative:guru99\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D59809-BDEF-4A43-AF5E-DDF1B3BCABDE}|Guru99\\Guru99.csproj|C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\guru99\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D59809-BDEF-4A43-AF5E-DDF1B3BCABDE}|Guru99\\Guru99.csproj|solutionrelative:guru99\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\Guru99\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "Guru99\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\Guru99\\Pages\\HomePage.cs",
+              "RelativeToolTip": "Guru99\\Pages\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:21:59.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guru99Demo.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\Guru99\\Guru99Demo.cs",
+              "RelativeDocumentMoniker": "Guru99\\Guru99Demo.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\Guru99\\Guru99Demo.cs",
+              "RelativeToolTip": "Guru99\\Guru99Demo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:09:56.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\Guru99\\Program.cs",
+              "RelativeDocumentMoniker": "Guru99\\Program.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\Guru99\\Guru99\\Program.cs",
+              "RelativeToolTip": "Guru99\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:05:04.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
