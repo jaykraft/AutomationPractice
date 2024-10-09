@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|c:\\users\\jason\\documents\\automationpractice\\selenium\\c#\\demoqa\\demoqa\\tests\\tc_completetextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|solutionrelative:demoqa\\tests\\tc_completetextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\demoqa\\utilities\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|solutionrelative:demoqa\\utilities\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|c:\\users\\jason\\documents\\automationpractice\\selenium\\c#\\demoqa\\demoqa\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|solutionrelative:demoqa\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|c:\\users\\jason\\documents\\automationpractice\\selenium\\c#\\demoqa\\demoqa\\utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|solutionrelative:demoqa\\utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\demoqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D9F260-EDA6-471E-BAF0-9C8F26B4FA6A}|DemoQA\\DemoQA.csproj|solutionrelative:demoqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TC_CompleteTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\tests\\TC_CompleteTextBox.cs",
+              "RelativeDocumentMoniker": "DemoQA\\tests\\TC_CompleteTextBox.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\tests\\TC_CompleteTextBox.cs",
+              "RelativeToolTip": "DemoQA\\tests\\TC_CompleteTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:55:18.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "DemoQA\\pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\pages\\HomePage.cs",
+              "RelativeToolTip": "DemoQA\\pages\\HomePage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:35:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\utilities\\Helpers.cs",
+              "RelativeDocumentMoniker": "DemoQA\\utilities\\Helpers.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\utilities\\Helpers.cs",
+              "RelativeToolTip": "DemoQA\\utilities\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:34:12.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\utilities\\BaseTest.cs",
+              "RelativeDocumentMoniker": "DemoQA\\utilities\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\utilities\\BaseTest.cs",
+              "RelativeToolTip": "DemoQA\\utilities\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:34:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\Program.cs",
+              "RelativeDocumentMoniker": "DemoQA\\Program.cs",
+              "ToolTip": "C:\\Users\\Jason\\Documents\\AutomationPractice\\Selenium\\C#\\DemoQA\\DemoQA\\Program.cs",
+              "RelativeToolTip": "DemoQA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:31:13.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
