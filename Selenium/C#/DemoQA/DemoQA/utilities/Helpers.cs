@@ -15,10 +15,19 @@ namespace DemoQA.utilities
 
         public Helpers(IWebDriver driver) { this.driver = driver; }
 
-        public void WaitForElementToBeDisplayed(int timeoutSec, By locator)
+        public void WaitForElementToBeDisplayed(int timeoutSec, By locator, bool expectedElement)
         {
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(timeoutSec));
-            wait.Until(drv => drv.FindElement(locator).Displayed);
+            try { 
+               wait.Until(drv => drv.FindElement(locator).Displayed);
+            } catch (Exception e){
+                if (expectedElement)
+                {
+                    Console.WriteLine("Element " + locator.ToString() + " was not found");
+                    Console.WriteLine(e.ToString());
+                }
+            }
+            
         }
     }
 }

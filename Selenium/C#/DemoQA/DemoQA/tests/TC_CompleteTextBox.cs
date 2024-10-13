@@ -17,7 +17,7 @@ namespace DemoQA.tests
             Helpers helper = new Helpers(driver);
             HomePage home = new HomePage(driver);
 
-            helper.WaitForElementToBeDisplayed(20, home.cards);
+            helper.WaitForElementToBeDisplayed(20, home.cards, true);
             home.SelectItemByType("elements");
 
         }

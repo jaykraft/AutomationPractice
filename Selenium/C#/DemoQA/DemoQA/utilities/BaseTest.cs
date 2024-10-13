@@ -16,7 +16,7 @@ namespace DemoQA.utilities
     {
         public IWebDriver driver;
         String url = "https://demoqa.com/";
-        String browser = "edge";
+        String browser = "firefox";
 
         [SetUp]
         public void SetUp() {
